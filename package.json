@@ -1,0 +1,25 @@
+{
+  "name": "mean-crud",
+  "version": "1.0.0",
+  "description": "mean crud",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinaydinodia/mean-crud.git"
+  },
+  "author": "vinaydinodia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinaydinodia/mean-crud/issues"
+  },
+  "homepage": "https://github.com/vinaydinodia/mean-crud#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "mongoose": "^4.12.0",
+    "morgan": "^1.9.0"
+  }
+}
