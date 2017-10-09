@@ -18,7 +18,7 @@ mongoose.connect('mongodb://localhost:27017/tutorial',function(err){
 	if(err){
 	console.log('Not connected to the database:'+ err);
 }else{
-	console.log('Successfully connected to MongoDB');
+	console.log('SuccessFully connected to MongoDB');
 }
 });
 app.get('*',function(req,res){
