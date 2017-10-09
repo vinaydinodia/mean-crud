@@ -1,1 +1,1 @@
-# mean-crud
+# mean-crud app
