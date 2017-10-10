@@ -6,6 +6,11 @@ angular.module('appRoutes',['ngRoute'])
 	.when('/about',{
 		templateUrl: 'app/view/pages/about.html'
 	})
+	.when('/register',{
+		templateUrl: 'app/view/pages/users/register.html',
+		controller: 'regCtrl',
+		controllerAs: 'register'
+	})
 	.otherwise({redirectTo: '/'});
 	$locationProvider.html5Mode({
 		enabled: true,

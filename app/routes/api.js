@@ -1,6 +1,6 @@
 var User = require ('../models/user');
 module.exports =function(router){
-//http://localhost:8000/user
+//http://localhost:8000/api/user
 	router.post('/user',function(req,res){
 		var user = new User();
 		user.username = req.body.username;
