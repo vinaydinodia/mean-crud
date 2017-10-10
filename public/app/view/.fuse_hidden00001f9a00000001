@@ -6,7 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 <<<<<<< HEAD
-<<<<<<< HEAD
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
@@ -34,18 +33,13 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 =======
-=======
->>>>>>> dev
     <meta name="description" content="">
     <meta name="author" content="">
 <link rel="stylesheet" type="text/css" href="../public/assets/css/bootstrap.css">
 
     <title>Theme Template for Bootstrap</title>
 
-<<<<<<< HEAD
 >>>>>>> 6c6e7a224313271f87e332b39ec30fa66d2996a3
-=======
->>>>>>> dev
   </head>
 
   <body>
@@ -92,7 +86,6 @@
         <p>This is a template showcasing the optional theme stylesheet included in Bootstrap. Use it as a starting point to create something more unique by building on or modifying it.</p>
       </div>
 
-<<<<<<< HEAD
 <<<<<<< HEAD
 
       <div class="page-header">
@@ -648,15 +641,12 @@
 
 =======
 >>>>>>> 6c6e7a224313271f87e332b39ec30fa66d2996a3
-=======
->>>>>>> dev
     </div> <!-- /container -->
 
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-<<<<<<< HEAD
 <<<<<<< HEAD
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
@@ -667,8 +657,5 @@
 =======
     <script src="../public/assets/js/bootstrap.js"></script>
 >>>>>>> 6c6e7a224313271f87e332b39ec30fa66d2996a3
-=======
-    <script src="../public/assets/js/bootstrap.js"></script>
->>>>>>> dev
   </body>
 </html>
