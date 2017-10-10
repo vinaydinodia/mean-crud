@@ -1,5 +1,5 @@
 angular.module('appRoutes',['ngRoute'])
-.config(function($routeProvider){
+.config(function($routeProvider,$locationProvider){
 	$routeProvider.when('/',{
 		templateUrl: 'app/view/pages/home.html'
 	})
